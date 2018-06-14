@@ -4,7 +4,7 @@ handwritten
 
 
 Handwritten digit recognition using convolutional neural network.
-By Machine Learning Mastery <https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/>`_
+By `Machine Learning Mastery <https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/>`_
 
 
 Description
