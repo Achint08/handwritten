@@ -3,14 +3,17 @@ handwritten
 ===========
 
 
-Add a short description here!
+Handwritten digit recognition using convolutional neural network.
+By Machine Learning Mastery <https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/>`_
 
 
 Description
 ===========
 
-A longer description of your project goes here...
-
+* handwritten.py: To check dataset
+* hand_base.py: Baseline Model with Multi-Layer Perceptrons
+* hand_cnn.py: Simple Convolutional Neural Network for MNIST
+* hand_cnn_twolayer.py: Larger Convolutional Neural Network for MNIST
 
 Note
 ====
